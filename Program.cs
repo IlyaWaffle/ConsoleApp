@@ -8,7 +8,6 @@ for (int i = 0; i < array.GetLength(0); i++)
     }
 }
 
-Print(array);
 
 
 
